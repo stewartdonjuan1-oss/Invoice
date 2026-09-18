@@ -1,0 +1,14 @@
+{
+  "name": "Tuckshop Invoice Builder",
+  "short_name": "Tuckshop Inv",
+  "description": "Paste a tuckshop WhatsApp order and generate a Roman's Pizza Welkom invoice.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2efe8",
+  "theme_color": "#bf2a27",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
