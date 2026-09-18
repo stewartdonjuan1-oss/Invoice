@@ -1,6 +1,7 @@
 {
   "name": "invoice",
   "compatibility_date": "2025-01-01",
+  "workers_dev": true,
   "assets": {
     "directory": "./",
     "not_found_handling": "404-page"
